@@ -1,0 +1,8 @@
+.*
+!.gitignore
+!.perltidyrc
+!.travis.yml
+*~
+.DS_Store
+module
+mojo
